@@ -1,0 +1,4 @@
+repository "spatial-unity-starter-template-main/KlassenraumVR@9072312430065@cloud"
+  path "/"
+    br "/main"
+    co "/main"
