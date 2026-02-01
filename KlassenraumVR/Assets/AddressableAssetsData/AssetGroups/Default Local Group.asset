@@ -22,6 +22,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4608e308f1e56df42ae12205926dd8f9
+    m_Address: Assets/Scenes/ClassroomTest2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 32a63d1d8cd85a549b85d0a866b4a12b, type: 2}
   m_SchemaSet:
